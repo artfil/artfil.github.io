@@ -18,7 +18,7 @@ darkmode: false
 #twitter_username:
 github_username: artfil
 telegram_username: artemf9
-stackoverflow_username: "14928780"
+# stackoverflow_username: "14928780"
 # facebook_username:
 #instagram_username:
 linkedin_username: артём-филимонов-5281a41ba
@@ -40,12 +40,12 @@ about_content: | # this will include new lines to allow paragraphs
     - <mark>Base:</mark>    Java 15 Core / RESTful API / SOLID principles
     - <mark>Framework:</mark>   Spring (MVC, Security, Data, Boot) / JPA (Hibernate)
     - <mark>VCS:</mark>   Git
-    - <mark>DB:</mark>    PostgreSQL / HSQLDB / H2 / MySQL
+    - <mark>DB:</mark>    PostgreSQL / HSQLDB / MySQL
     - <mark>Test:</mark>    JUnit / Mockito
     - <mark>Bulid:</mark>   Maven
     - <mark>Deploy:</mark>    Apache Tomcat / Heroku
     - <mark>Logger:</mark>    Log4j / logback
-    - <mark>Other:</mark>    JDBC / JPA / XML / Servlet / JSP / JSTL / AJAX / JWT
+    - <mark>Other:</mark>    JDBC / JPA / XML / Servlet / JSP / JSTL / JWT
     - <mark>*</mark>     Знание и опыт применения концепций ООП, шаблонов проектирования, архитектурных шаблонов, UML, функционального программирования
 
 # Footer
