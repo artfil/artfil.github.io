@@ -37,20 +37,22 @@ about_content: | # this will include new lines to allow paragraphs
    - Сильная логика
 
   Квалификация:
-    - <mark>Base:</mark>    Java 15 Core / RESTful API / SOLID principles
+    - <mark>Base:</mark>    Java 17 Core / RESTful API / SOLID principles
     - <mark>Framework:</mark>   Spring (MVC, Security, Data, Boot) / JPA (Hibernate)
     - <mark>VCS:</mark>   Git
-    - <mark>DB:</mark>    PostgreSQL / HSQLDB / MySQL
+    - <mark>DB:</mark>    PostgreSQL / MySQL / MongoDB
+    - <mark>Message broker:</mark>    RabbitMQ / Kafka
     - <mark>Test:</mark>    JUnit / Mockito
-    - <mark>Bulid:</mark>   Maven
+    - <mark>Bulid:</mark>   Maven / Gradle / Docker
+    - <mark>Orchestration:</mark>    Kubernetes
     - <mark>Deploy:</mark>    Apache Tomcat / Heroku
     - <mark>Logger:</mark>    Log4j / logback
-    - <mark>Other:</mark>    JDBC / JPA / XML / Servlet / JSP / JSTL / JWT
+    - <mark>Other:</mark>    Liquibase / JDBC / JPA / XML / JWT
     - <mark>*</mark>     Знание и опыт применения концепций ООП, шаблонов проектирования, архитектурных шаблонов, UML, функционального программирования
 
 # Footer
 footer_show_references: true
-# references_title: References on request (Override references text)
+# references_title: 
 
 # Build settings
 remote_theme: sproogen/resume-theme
