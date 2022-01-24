@@ -9,12 +9,7 @@ layout: left
   job_title: Java Developer
   dates: Июль 2021 - н.в
   description: | # this will include new lines to allow paragraphs
-    Разработка микросервисов интеграционной платформы предприятия в среде:
-      - Java 17,
-      - Spring(MVC, Security, Data, Boot),
-      - Kafka, RabbitMQ,
-      - PostgreSQL,
-      - Docker/Kubernetes;
+    Разработка микросервисов интеграционной платформы предприятия в среде: Java 17/ Spring(MVC, Security, Data, Boot)/ Kafka/ RabbitMQ/ PostgreSQL/ Kubernetes;
     * Проведение рефакторинга существующего кода и архитектуры;
     * Следование стандартам разработки принятым в команде, участие в их развитии;
     * Взаимодействие с аналитиками, архитекторами и тестированием в процессе проектирования и реализации задач;
