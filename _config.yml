@@ -39,20 +39,20 @@ about_content: | # this will include new lines to allow paragraphs
   Квалификация:
     - <mark>Base:</mark>    Java 17 Core / RESTful API / SOLID principles
     - <mark>Framework:</mark>   Spring (MVC, Security, Data, Boot) / JPA (Hibernate)
-    - <mark>VCS:</mark>   Git
-    - <mark>DB:</mark>    PostgreSQL / MySQL / MongoDB
     - <mark>Message broker:</mark>    RabbitMQ / Kafka
+    - <mark>Orchestration:</mark>    Kubernetes
+    - <mark>DB:</mark>    PostgreSQL / MySQL / MongoDB
     - <mark>Test:</mark>    JUnit / Mockito
     - <mark>Bulid:</mark>   Maven / Gradle / Docker
-    - <mark>Orchestration:</mark>    Kubernetes
     - <mark>Deploy:</mark>    Apache Tomcat / Heroku
     - <mark>Logger:</mark>    Log4j / logback
+    - <mark>VCS:</mark>   Git
     - <mark>Other:</mark>    Liquibase / JDBC / JPA / XML / JWT
     - <mark>*</mark>     Знание и опыт применения концепций ООП, шаблонов проектирования, архитектурных шаблонов, UML, функционального программирования
 
 # Footer
 footer_show_references: true
-references_title: 
+references_title: ;
 
 # Build settings
 remote_theme: sproogen/resume-theme
