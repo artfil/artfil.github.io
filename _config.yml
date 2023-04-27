@@ -24,34 +24,34 @@ telegram_username: artemf9
 linkedin_username: artem-filimonov-5281a41ba
 
 # About Section
-# about_title: About Me
+about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  About:
-   - Аналитический склад ума
-   - Ориентация на результат
-   - Внимательность
-   - Умение работать в команде
-   - Инициативность
-   - Целеустремлённость
-   - Сильная логика
+  - Strong analytical and logical thinking
+  - Results-oriented
+  - Problem-solving skills
+  - Detail-oriented
+  - Teamwork skills
+  - Initiative
+  - Determination
+  - Good knowledge of algorithms and data structures
 
-  Квалификация:
-    - <mark>Base:</mark>    Java 17 Core / RESTful API / SOLID principles
-    - <mark>Framework:</mark>   Spring (MVC, Security, Data, Boot) / JPA (Hibernate)
-    - <mark>Message broker:</mark>    RabbitMQ / Kafka
-    - <mark>Orchestration:</mark>    Kubernetes
-    - <mark>DB:</mark>    PostgreSQL / MySQL / MongoDB
-    - <mark>Test:</mark>    JUnit / Mockito
-    - <mark>Bulid:</mark>   Maven / Gradle / Docker
-    - <mark>Deploy:</mark>    Apache Tomcat / Heroku
-    - <mark>Logger:</mark>    Log4j / logback
-    - <mark>VCS:</mark>   Git
-    - <mark>Other:</mark>    Liquibase / JDBC / JPA / XML / JWT
-    - <mark>*</mark>     Знание и опыт применения концепций ООП, шаблонов проектирования, архитектурных шаблонов, UML, функционального программирования
+  Qualification:
+   - <mark>Base:</mark>    Java 19 Core / RESTful API / SOLID principles
+   - <mark>Framework:</mark>   Spring (Boot, MVC, Security, Data, Cloud, WebFlux, Integration) / JPA (Hibernate)
+   - <mark>Message broker:</mark>    RabbitMQ / Kafka
+   - <mark>Orchestration:</mark>    Kubernetes
+   - <mark>DB:</mark>    PostgreSQL / MySQL / MongoDB / Scylla / Clickhouse / Redis
+   - <mark>Test:</mark>    JUnit / Mockito
+   - <mark>Bulid:</mark>   Maven / Gradle / Docker
+   - <mark>Deploy:</mark>    Apache Tomcat / Heroku
+   - <mark>Logger:</mark>    Log4j / logback
+   - <mark>VCS:</mark>   Git
+   - <mark>Other:</mark>    Liquibase / JDBC / JPA / XML / JWT
+   - <mark>*</mark>     Good knowledge of OOP, design patterns, template architecture, UML, functional programming
 
 # Footer
-footer_show_references: true
+footer_show_references: false
 references_title: ;
 
 # Build settings
