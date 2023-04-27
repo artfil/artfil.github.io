@@ -6,7 +6,7 @@ favicon: images/favicon.ico
 version: 2
 
 # Personal info
-name: Артём Филимонов
+name: Artem Filimonov
 title: Java Developer
 email: filimonovartemv@gmail.com
 phone: +7(969)201-74-47
@@ -21,13 +21,13 @@ telegram_username: artemf9
 # stackoverflow_username: "14928780"
 # facebook_username:
 #instagram_username:
-linkedin_username: артём-филимонов-5281a41ba
+linkedin_username: artem-filimonov-5281a41ba
 
 # About Section
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Личные качества:
+  About:
    - Аналитический склад ума
    - Ориентация на результат
    - Внимательность
