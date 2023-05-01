@@ -5,7 +5,7 @@
   #  quote: >
   #    Short overview of the project (optional)
   description: | # this will include new lines to allow paragraphs
-    Java Enterprise project with registration/authorization and role-based access rights (USER, ADMIN). Admin can create/view/edit/delete - dishes/menus/restaurants/users. Users can manage their profile, view restaurants and their menus, and vote via REST interface with basic authorization. Test coverage for REST API with JUnit tests using Spring MVC Test and Spring Security Test.
+    Java Enterprise project with registration/authorization and role-based access rights (USER, ADMIN). Admin can create/view/edit/delete dishes/menus/restaurants/users. Users can manage their profile, view restaurants and their menus, and vote via REST interface with basic authorization. Test coverage for REST API with JUnit tests using Spring MVC Test and Spring Security Test.
 
 
 - layout: top-middle
