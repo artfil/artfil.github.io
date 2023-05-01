@@ -30,10 +30,9 @@
     * Code and Architecture refactoring;
     * Following team standards;
     * Cooperation with IT architects, analysts and testers;
-    * Разработка и сопровождение ИТ-решений в интересах различных бизнес-подразделений компании;
+    * Development, implementation and analysis of IT products for various business units of the company;
     * Agile development;
     * System support, testing and resolving technical issues that arise;
-    * Участие в процессах анализа, разработки и внедрения нового функционала;
     * Writing documentation.
 
 - layout: left
@@ -41,8 +40,8 @@
   job_title: Java Developer
   dates: January 2021 - July 2021
   description: | # this will include new lines to allow paragraphs
-    * Участие в разработке Spring/JPA Enterprise приложения c авторизацией и правами доступа на основе ролей на стеке: Maven/ Spring MVC/ Security/ REST(Jackson)/ Java 15;
+    * Development of the Spring/JPA Enterprise application with registration/authorization and role-based access rights on the stack: Maven/ Spring MVC/ Security/ REST(Jackson)/ Java 15;
     * Implementation of saving to PostgreSQL and HSQLDB databases based on Spring JDBC, JPA(Hibernate) and Spring-Data-JPA;
     * Implementation and testing of REST and AJAX controllers;
     * Client implementation on Bootstrap (css/js), datatables, jQuery + plugins;
-    * Собственная доработка проекта.
+    * Project readjustment.
