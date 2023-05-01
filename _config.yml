@@ -28,13 +28,11 @@ about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
   - Strong analytical and logical thinking
-  - Results-oriented
+  - Results and details oriented
   - Problem-solving skills
-  - Detail-oriented
   - Teamwork skills
+  - Self starter
   - Initiative
-  - Determination
-  - Good knowledge of algorithms and data structures
 
   Qualification:
    - <mark>Base:</mark>    Java 19 Core / RESTful API / SOLID principles
@@ -48,7 +46,7 @@ about_content: | # this will include new lines to allow paragraphs
    - <mark>Logger:</mark>    Log4j / logback
    - <mark>VCS:</mark>   Git
    - <mark>Other:</mark>    Liquibase / JDBC / JPA / XML / JWT
-   - <mark>*</mark>     Good knowledge of OOP, design patterns, template architecture, UML, functional programming
+   - <mark>*</mark>     Good knowledge of algorithms, data structures and OOP, design patterns, template architecture, UML, functional programming
 
 # Footer
 footer_show_references: false
