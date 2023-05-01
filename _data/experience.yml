@@ -1,5 +1,5 @@
 - layout: left
-  company: <a href="//ir.mts.ru" target="_blank">Beeline</a>
+  company: <a href="//beelineru.ru" target="_blank">Beeline</a>
   job_title: Java Developer
   dates: March 2022 - Present
   description: | # this will include new lines to allow paragraphs
@@ -14,7 +14,7 @@
     * Agile development;
     * System support, testing and resolving technical issues that arise;
     * Writing documentation;
-    * Cooperation with IT architects, analysts and testers in Designing and Implementing tasks.
+    * Cooperation with IT architects, analysts and testers in designing and implementing tasks.
 
 - layout: left
   company: <a href="//ir.mts.ru" target="_blank">MTS (Mobile TeleSystems)</a>
@@ -27,7 +27,7 @@
       - Kafka, RabbitMQ,
       - PostgreSQL, 
       - Kubernetes;
-    * Code and Architecture refactoring;
+    * Code and architecture refactoring;
     * Following team standards;
     * Cooperation with IT architects, analysts and testers;
     * IT products development, implementation and analysis for various business units of the company;
