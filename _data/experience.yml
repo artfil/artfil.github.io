@@ -38,7 +38,7 @@
 - layout: left
   company: <a href="//javaops.ru/view/topjava" target="_blank">TopJava</a>
   job_title: Java Developer
-  dates: January 2021 - July 2021
+  dates: November 2020 - May 2021
   description: | # this will include new lines to allow paragraphs
     * Development of the Spring/JPA Enterprise application with registration/authorization and role-based access rights on the stack: Maven/ Spring MVC/ Security/ REST(Jackson)/ Java 15;
     * Implementation of saving to PostgreSQL and HSQLDB databases based on Spring JDBC, JPA(Hibernate) and Spring-Data-JPA;
