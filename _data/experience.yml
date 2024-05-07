@@ -1,7 +1,22 @@
 - layout: left
+  company: <a href="//selecty.io" target="_blank">Selecty</a>
+  job_title: Senior Java Developer
+  dates: December 2023 - Present
+  description: | # this will include new lines to allow paragraphs
+    * Development in:
+      - Java 11,
+      - Spring(Boot, MVC, Security, Data),
+      - Kafka, RabbitMQ
+      - MSSQL, PostgreSQL
+      - Kubernetes;
+    * Performance monitoring and system improving;
+    * System support, testing and resolving technical issues that arise;
+    * Cooperation with IT architects, analysts and testers in designing and implementing tasks.
+
+- layout: left
   company: <a href="//beelineru.ru" target="_blank">Beeline</a>
-  job_title: Java Developer
-  dates: March 2022 - Present
+  job_title: Senior Java Developer
+  dates: March 2022 - December 2023
   description: | # this will include new lines to allow paragraphs
     * High-load distributed communication systems development in:
       - Java 17,
@@ -36,7 +51,7 @@
     * Writing documentation.
 
 - layout: left
-  company: <a href="//javaops.ru/view/topjava" target="_blank">TopJava</a>
+  company: <a href="//javaops.ru/view/topjava" target="_blank">Java Online Projects</a>
   job_title: Java Developer
   dates: November 2020 - May 2021
   description: | # this will include new lines to allow paragraphs
